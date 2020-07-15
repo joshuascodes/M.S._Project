@@ -26,8 +26,7 @@ The data is focused on the entire U.S. population and ranges from 1979 Q4 to 200
 
 * [New housing price Index](https://www.census.gov/construction/cpi/historical_data/) - Published as "Price Indexes For New Single-Family Houses (Base Year 1996)"
 
-* [Housing Starts](https://www.census.gov/construction/nrc/historical_data/index.html) Published as "Housing Units Started by Purpose and Design" <p>
-The "total" column is the data used.
+* [Housing Starts](https://www.census.gov/construction/nrc/historical_data/index.html) Published as "Housing Units Started by Purpose and Design", the "total" column is the data used.
 
 * [Housing Permits](https://www.census.gov/construction/nrc/historical_data/index.html) Published as "Housing Units Authorized in Permit‐Issuing Places" <p>
  To obtain quarterly data for housing permits, simply sum every three observations to obtain quarterly data. The "1-unit" column is the data used.
